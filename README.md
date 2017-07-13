@@ -17,5 +17,6 @@ A collection of assignments in BUPT.
 - Computer Architecture
   - [Experiment](/Computer%20Architecture/report)
   - [Reading Report](/Computer%20Architecture/Experiment)
+  
 - Course Design for Microcomputer System and Interface Technique
-  - Keyboard and LED with 8086 CPU
+  - [Keyboard and LED with 8086 CPU](/Course%20Design%20for%20Microcomputer%20System%20and%20Interface%20Technique)
