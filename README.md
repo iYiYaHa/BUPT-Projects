@@ -9,7 +9,7 @@ A collection of assignments in BUPT.
 ## Year 3
 
 - C++ Practice & Programming Practice
-  - Project - [Pokemon Game]()
+  - Project - [Pokemon Game](../PokemonGame)
   
 - Curriculum Practice of Computer Networks
   - [DNS Relayer](/Curriculum-Practice-of-Computer-Networks/)
