@@ -12,7 +12,7 @@ A collection of assignments in BUPT.
   - Project - [Pokemon Game]()
   
 - Curriculum Practice of Computer Networks
-  - [DNS Relayer](/Curriculum-Practice-of-Computer-Networks/)
+  - [DNS Relayer](/Curriculum-Practice-of-Computer-Networks/)
 
 - Computer Architecture
   - SimpleScalar Installation
