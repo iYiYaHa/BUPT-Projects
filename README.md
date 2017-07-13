@@ -15,8 +15,7 @@ A collection of assignments in BUPT.
   - [DNS Relayer](/Curriculum-Practice-of-Computer-Networks/)
 
 - Computer Architecture
-  - SimpleScalar Installation
-  - Mibench Automotive Benchmark
-  - Cluster System Reading Report
+  - [Experiment](/Computer%20Architecture/report)
+  - [Reading Report](/Computer%20Architecture/Experiment)
 - Course Design for Microcomputer System and Interface Technique
   - Keyboard and LED with 8086 CPU
